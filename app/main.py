@@ -28,7 +28,7 @@ def userInputFeatures():
     return features
 
 def Predistions(inputData):
-    model = pk.load(open("../model/model.pkl", "rb"))
+    model = pk.load(open("model/model.pkl", "rb"))
 
     prediction = model.predict(inputData)
     prediction_proba = model.predict_proba(inputData)
