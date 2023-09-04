@@ -68,6 +68,7 @@ st.markdown(
               - [GitHub](https://github.com/ZiaUrRehman-bit)
               - [LinkedIn](https://www.linkedin.com/in/zia-ur-rehman-217a6212b/) 
               - [Curriculum vitae](https://github.com/ZiaUrRehman-bit/ZiaUrRehman-bit/blob/main/A2023Updated.pdf)
+              - [Breast Cancer Predictor Web Application based upon Machine Learning Algorithm](https://breast-cancer-prediction-app-application-yg8ruznblwreqrx293uz4.streamlit.app/)
               
               For any query, You can email me.
               *Email:* engrziaurrehman.kicsit@gmail.com
