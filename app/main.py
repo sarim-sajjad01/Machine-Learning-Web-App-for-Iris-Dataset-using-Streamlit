@@ -14,7 +14,7 @@ This app predicts the **Iris flower** type!
          """)
 
 imageURL = "https://w0.peakpx.com/wallpaper/38/559/HD-wallpaper-blue-irises-iris-flowers-blue-nature.jpg"
-st.image(imageURL, caption="Face-Mesh", use_column_width=True)
+st.image(imageURL, caption="Iris Flower", use_column_width=True)
 
 st.sidebar.header('User Input Parameter')
 
