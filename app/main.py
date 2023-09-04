@@ -38,7 +38,7 @@ def Predistions(inputData):
 df = userInputFeatures()
 
 GIFImage = 'https://storage.googleapis.com/kaggle-datasets-images/19/19/default-backgrounds/dataset-card.jpg'
-st.sidebar.image(GIFImage, caption="Face-Mesh", use_column_width=True)
+st.sidebar.image(GIFImage, caption="Iris Flower", use_column_width=True)
 
 st.subheader('User Input parameters')
 st.write(df)
