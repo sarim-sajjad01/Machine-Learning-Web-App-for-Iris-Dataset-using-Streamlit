@@ -38,7 +38,7 @@ def Predistions(inputData):
 df = userInputFeatures()
 
 GIFImage = 'https://1.bp.blogspot.com/-nUNmjUY0kwo/XIGaggwn58I/AAAAAAAAD4A/tA3S0Tgu5N4rbjlaNEbr_I5GuHbQwHyRgCEwYBhgL/s1600/image6.gif'
-    st.sidebar.image(GIFImage, caption="Face-Mesh", use_column_width=True)
+st.sidebar.image(GIFImage, caption="Face-Mesh", use_column_width=True)
 
 st.subheader('User Input parameters')
 st.write(df)
